@@ -1,4 +1,6 @@
 Tao thu muc git : git init
 add Remote : git remote add origin <name>
 remve Remote : git remote remove origin
-git pull truoc khi commit
+git pull truoc khi push
+clone git : git clone <name>
+
