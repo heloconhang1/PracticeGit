@@ -3,4 +3,6 @@ add Remote : git remote add origin <name>
 remve Remote : git remote remove origin
 git pull truoc khi push
 clone git : git clone <name>
-
+tao Branch : git branch <name>
+chuyen branch : git checkout <branch name>
+tao va chuyen branch cung 1 lenh : git checkout -b <branch name>
